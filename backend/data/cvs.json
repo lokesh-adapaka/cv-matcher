@@ -1,0 +1,309 @@
+[
+  {
+    "id": "184e5e6d",
+    "name": "Aishwarya Singh",
+    "email": "aishwarya3singh136@gmail.com",
+    "phone": "+918019448316",
+    "summary": "Site Reliability Engineer with 7+ years' experience designing, automating and operating cloud infrastructure. Expert in CI/CD, IaC, AKS/Docker orchestration, and scripting, focused on improving reliability, automating deployments and cost optimization while ensuring security and operational continuity.",
+    "skills": [
+      "CI/CD",
+      "Azure DevOps",
+      "YAML",
+      "GitHub",
+      "Infrastructure-as-Code",
+      "Bicep",
+      "Terraform",
+      "AKS",
+      "Docker",
+      "PowerShell",
+      "Bash",
+      "Python",
+      "Monitoring-as-Code",
+      "Datadog",
+      "Cloud cost optimization",
+      "Security compliance management",
+      "Incident management",
+      "Data analysis",
+      "ServiceNow",
+      "PS360",
+      "Qualys",
+      "Git",
+      "Cloud infrastructure code",
+      "Automation",
+      "Backup and disaster recovery"
+    ],
+    "experience": [
+      {
+        "title": "Sr. Site Reliability Engineer",
+        "company": "Thomson Reuters",
+        "duration": "Mar 2022 to Present",
+        "description": "Maintaining Azure and its cloud services, including Azure DevOps. Responsibilities include Bash and PowerShell scripting, Docker and Kubernetes management, cloud infrastructure code with Terraform, monitoring as code, Azure cost optimization, and security compliance management."
+      },
+      {
+        "title": "Software Engineer",
+        "company": "Mindtree LTD",
+        "duration": "Jun 2018 to Mar 2022",
+        "description": "Involved in service desk operations, server and network monitoring, troubleshooting server and network issues in Azure, incident management, and assisting customers with Azure ARM and Classic Portal related issues."
+      }
+    ],
+    "education": [
+      {
+        "degree": "Bachelors of Computer Science",
+        "institution": "Malla Reddy College of Engineering and Technology",
+        "year": "2018"
+      }
+    ],
+    "raw_text": "AISHWARYA SINGH\nSR. SITE RELIABILITY ENGINEER\nHyderabad 500047, India | aishwarya3singh136@gmail.com | +918019448316\nI am always energetic and eager to learn new skills. I have organized the sta functions for the last two years with great\nsuccess. I am always on time for organized events, work-related even though I take my work seriously, I do have a good\nsense of humor.\nPROFILE\nSite Reliability Engineer with 7+ years' experience designing, automating and operating cloud infrastructure. Expert in\nCI/CD (Azure DevOps/YAML/Github), IaC (Bicep, Terraform), AKS/Docker orchestration, and scripting (PowerShell, Bash,\nPython); focused on improving reliability, automating deployments and cost optimization while ensuring security, backups\nand operational continuity.\nACCOMPLISHMENTS\nDesigned and implemented Infrastructure-as-Code (Bicep, Terraform) for Azure environments (AKS, storage,\nnetworking), enabling repeatable provisioning and reducing environment setup time from days to minutes.\nBuilt YAML-based Azure DevOps CI/CD pipelines and GitHub workflows to automate build, test and deployment\nprocesses, achieving zero-downtime releases and reducing deployment time by over 70%.\nImplemented Monitoring-as-Code with Datadog and robust alerting/runbooks, cutting mean time to recovery (MTTR)\nby 40% and reducing incident volume through proactive detection.\nLed team with operations, Docker containerization and Helm-based deployments, improving scalability and availability.\nImplemented backup, migration and disaster-recovery strategies to meet RTO/RPO targets and maintain 99.9%+\nservice uptime.\nAutomated operational tasks with PowerShell, Bash and Python scripts, saving an estimated 15+ hours/week of manual\nwork.\nOptimized Azure costs through tagging, rightsizing and reserved instances, reducing monthly cloud spend by\napproximately 20%.\nCompletely Automated Patching process and DR tests which reduces production downtime.\nPROFESSIONAL EXPERIENCE\nSr. Site Reliability Engineer, Thomson Reuters\nMar 2022 to Present\nHyderabad\nMaintaining Azure and its cloud services, including Azure DevOps.\nBash and Powershell scripting\nDocker and Kubernetes\nThe tasks for our Team are Cloud infrastructure code Terraform\nMonitoring as Code\nAzure cost reports and optimization, tagging, and controlling.\nDocument and automate processes (testing, build, deployment, etc.) for CI/CD using\nAzure DevOps pipelines (YAML templates)\nAutomation of processes (dossiers, builds, validations, etc...)\nHandle the data storage, migrations, consolidation, continuity, and backups.\nSecurity compliance management.\nAKS maintenance and management.\nSetup of the environments in Azure-based on Docker and K8s. files.\nData analysis (interactions, errors, queries, etc.)\naishwarya3singh136@gmail.com\n\nAishwarya Singh, Sr. Site Reliability Engineer\nSoftware Engineer, Mindtree LTD\nJun 2018 to Mar 2022\nHyderabad\nService desk, server monitoring, network monitoring, troubleshooting server problems and network problems in\nAzure.\nIncident management and client handling skills.\nKnowledge of application support.\nAbility to understand the problem and act quickly.\nTo assist customers with Azure ARM and Classic Portal related issues\nTroubleshooting Azure Storage and VM performance (CPU, Memory, Network) issues\nHands-on experience on Azure Classic and ARM deployments using Portal, PowerShell\nand Templates.\nAssist customers with Azure and GitHub templates\nAssisting users with Storage spaces configuration at Azure Guest OS level.\nAssisting customers with Data migration Across Storage Accounts and also from on\npremise \u2013 Azure\nEDUCATION\nMalla Reddy college of engineering and technology\nApr 2014 to May 2018\nBachelors of computer science, Hyderabad\nLINKS\nLinkedIn\nAREAS OF EXPERTISE\n\u2022 GitHub\n\u2022 Git\n\u2022 IAC\n\u2022 Python\n\u2022 Alerting & Monitoring\n\u2022 Dockers\n\u2022 PowerShell\n\u2022 CI/CD\n\u2022 Bash\n\u2022 Cloud Cost Optimization\n\u2022 Kubernetes\n\u2022 Microsoft Bicep\n\u2022 Datadog\n\u2022 PowerBI\n\u2022 Azure\n\u2022 Terraform\n\u2022 ServiceNow\n\u2022 PS360 & Qualys\nLANGUAGES\nHindi, English, Telugu\naishwarya3singh136@gmail.com"
+  },
+  {
+    "id": "63371fa1",
+    "name": "Aishwarya Singh",
+    "email": "aishwarya3singh136@gmail.com",
+    "phone": "+918019448316",
+    "summary": "Site Reliability Engineer with 7+ years' experience designing, automating and operating cloud infrastructure. Expert in CI/CD, IaC, AKS/Docker orchestration, and scripting, focused on improving reliability, automating deployments and cost optimization while ensuring security and operational continuity.",
+    "skills": [
+      "CI/CD",
+      "Azure DevOps",
+      "YAML",
+      "GitHub",
+      "Infrastructure-as-Code",
+      "Bicep",
+      "Terraform",
+      "AKS",
+      "Docker",
+      "PowerShell",
+      "Bash",
+      "Python",
+      "Monitoring-as-Code",
+      "Datadog",
+      "Cloud cost optimization",
+      "Security compliance management",
+      "Data analysis",
+      "Incident management",
+      "Application support",
+      "Service desk",
+      "Server monitoring",
+      "Network monitoring",
+      "Troubleshooting",
+      "Data migration",
+      "Git",
+      "PowerBI",
+      "ServiceNow",
+      "PS360",
+      "Qualys"
+    ],
+    "experience": [
+      {
+        "title": "Sr. Site Reliability Engineer",
+        "company": "Thomson Reuters",
+        "duration": "Mar 2022 to Present",
+        "description": "Maintaining Azure and its cloud services, including Azure DevOps. Responsibilities include Bash and PowerShell scripting, Docker and Kubernetes management, cloud infrastructure code with Terraform, monitoring as code, Azure cost optimization, and security compliance management."
+      },
+      {
+        "title": "Software Engineer",
+        "company": "Mindtree LTD",
+        "duration": "Jun 2018 to Mar 2022",
+        "description": "Involved in service desk operations, server and network monitoring, troubleshooting server and network problems in Azure, incident management, and assisting customers with Azure ARM and Classic Portal related issues."
+      }
+    ],
+    "education": [
+      {
+        "degree": "Bachelors of Computer Science",
+        "institution": "Malla Reddy College of Engineering and Technology",
+        "year": "2018"
+      }
+    ],
+    "raw_text": "AISHWARYA SINGH\nSR. SITE RELIABILITY ENGINEER\nHyderabad 500047, India | aishwarya3singh136@gmail.com | +918019448316\nI am always energetic and eager to learn new skills. I have organized the sta functions for the last two years with great\nsuccess. I am always on time for organized events, work-related even though I take my work seriously, I do have a good\nsense of humor.\nPROFILE\nSite Reliability Engineer with 7+ years' experience designing, automating and operating cloud infrastructure. Expert in\nCI/CD (Azure DevOps/YAML/Github), IaC (Bicep, Terraform), AKS/Docker orchestration, and scripting (PowerShell, Bash,\nPython); focused on improving reliability, automating deployments and cost optimization while ensuring security, backups\nand operational continuity.\nACCOMPLISHMENTS\nDesigned and implemented Infrastructure-as-Code (Bicep, Terraform) for Azure environments (AKS, storage,\nnetworking), enabling repeatable provisioning and reducing environment setup time from days to minutes.\nBuilt YAML-based Azure DevOps CI/CD pipelines and GitHub workflows to automate build, test and deployment\nprocesses, achieving zero-downtime releases and reducing deployment time by over 70%.\nImplemented Monitoring-as-Code with Datadog and robust alerting/runbooks, cutting mean time to recovery (MTTR)\nby 40% and reducing incident volume through proactive detection.\nLed team with operations, Docker containerization and Helm-based deployments, improving scalability and availability.\nImplemented backup, migration and disaster-recovery strategies to meet RTO/RPO targets and maintain 99.9%+\nservice uptime.\nAutomated operational tasks with PowerShell, Bash and Python scripts, saving an estimated 15+ hours/week of manual\nwork.\nOptimized Azure costs through tagging, rightsizing and reserved instances, reducing monthly cloud spend by\napproximately 20%.\nCompletely Automated Patching process and DR tests which reduces production downtime.\nPROFESSIONAL EXPERIENCE\nSr. Site Reliability Engineer, Thomson Reuters\nMar 2022 to Present\nHyderabad\nMaintaining Azure and its cloud services, including Azure DevOps.\nBash and Powershell scripting\nDocker and Kubernetes\nThe tasks for our Team are Cloud infrastructure code Terraform\nMonitoring as Code\nAzure cost reports and optimization, tagging, and controlling.\nDocument and automate processes (testing, build, deployment, etc.) for CI/CD using\nAzure DevOps pipelines (YAML templates)\nAutomation of processes (dossiers, builds, validations, etc...)\nHandle the data storage, migrations, consolidation, continuity, and backups.\nSecurity compliance management.\nAKS maintenance and management.\nSetup of the environments in Azure-based on Docker and K8s. files.\nData analysis (interactions, errors, queries, etc.)\naishwarya3singh136@gmail.com\n\nAishwarya Singh, Sr. Site Reliability Engineer\nSoftware Engineer, Mindtree LTD\nJun 2018 to Mar 2022\nHyderabad\nService desk, server monitoring, network monitoring, troubleshooting server problems and network problems in\nAzure.\nIncident management and client handling skills.\nKnowledge of application support.\nAbility to understand the problem and act quickly.\nTo assist customers with Azure ARM and Classic Portal related issues\nTroubleshooting Azure Storage and VM performance (CPU, Memory, Network) issues\nHands-on experience on Azure Classic and ARM deployments using Portal, PowerShell\nand Templates.\nAssist customers with Azure and GitHub templates\nAssisting users with Storage spaces configuration at Azure Guest OS level.\nAssisting customers with Data migration Across Storage Accounts and also from on\npremise \u2013 Azure\nEDUCATION\nMalla Reddy college of engineering and technology\nApr 2014 to May 2018\nBachelors of computer science, Hyderabad\nLINKS\nLinkedIn\nAREAS OF EXPERTISE\n\u2022 GitHub\n\u2022 Git\n\u2022 IAC\n\u2022 Python\n\u2022 Alerting & Monitoring\n\u2022 Dockers\n\u2022 PowerShell\n\u2022 CI/CD\n\u2022 Bash\n\u2022 Cloud Cost Optimization\n\u2022 Kubernetes\n\u2022 Microsoft Bicep\n\u2022 Datadog\n\u2022 PowerBI\n\u2022 Azure\n\u2022 Terraform\n\u2022 ServiceNow\n\u2022 PS360 & Qualys\nLANGUAGES\nHindi, English, Telugu\naishwarya3singh136@gmail.com"
+  },
+  {
+    "id": "b3d3886a",
+    "name": "John Doe",
+    "email": "",
+    "phone": "",
+    "summary": "Software Engineer with expertise in developing applications using Python and React. Proficient in building APIs with FastAPI.",
+    "skills": [
+      "Python",
+      "FastAPI",
+      "React"
+    ],
+    "experience": [],
+    "education": [],
+    "raw_text": "John Doe\nSoftware Engineer\nSkills: Python, FastAPI, React"
+  },
+  {
+    "id": "7a086a3b",
+    "name": "Aishwarya Singh",
+    "email": "aishwarya3singh136@gmail.com",
+    "phone": "+918019448316",
+    "summary": "Site Reliability Engineer with 7+ years' experience designing, automating and operating cloud infrastructure. Expert in CI/CD, IaC, AKS/Docker orchestration, and scripting, focused on improving reliability and automating deployments.",
+    "skills": [
+      "CI/CD",
+      "Azure DevOps",
+      "YAML",
+      "GitHub",
+      "Infrastructure-as-Code",
+      "Bicep",
+      "Terraform",
+      "AKS",
+      "Docker",
+      "PowerShell",
+      "Bash",
+      "Python",
+      "Monitoring-as-Code",
+      "Datadog",
+      "Cloud cost optimization",
+      "Security compliance management",
+      "Data analysis",
+      "Incident management",
+      "Application support",
+      "Service desk",
+      "Server monitoring",
+      "Network monitoring",
+      "Troubleshooting",
+      "Automation",
+      "Git",
+      "Cloud infrastructure",
+      "Microsoft Bicep",
+      "PowerBI",
+      "ServiceNow",
+      "PS360",
+      "Qualys"
+    ],
+    "experience": [
+      {
+        "title": "Sr. Site Reliability Engineer",
+        "company": "Thomson Reuters",
+        "duration": "Mar 2022 to Present",
+        "description": "Maintaining Azure and its cloud services, including Azure DevOps. Responsibilities include Bash and PowerShell scripting, Docker and Kubernetes management, cloud infrastructure code with Terraform, monitoring as code, Azure cost optimization, and security compliance management."
+      },
+      {
+        "title": "Software Engineer",
+        "company": "Mindtree LTD",
+        "duration": "Jun 2018 to Mar 2022",
+        "description": "Involved in service desk operations, server and network monitoring, troubleshooting server and network problems in Azure, incident management, and assisting customers with Azure ARM and Classic Portal related issues."
+      }
+    ],
+    "education": [
+      {
+        "degree": "Bachelors of Computer Science",
+        "institution": "Malla Reddy College of Engineering and Technology",
+        "year": "2018"
+      }
+    ],
+    "raw_text": "AISHWARYA SINGH\nSR. SITE RELIABILITY ENGINEER\nHyderabad 500047, India | aishwarya3singh136@gmail.com | +918019448316\nI am always energetic and eager to learn new skills. I have organized the sta functions for the last two years with great\nsuccess. I am always on time for organized events, work-related even though I take my work seriously, I do have a good\nsense of humor.\nPROFILE\nSite Reliability Engineer with 7+ years' experience designing, automating and operating cloud infrastructure. Expert in\nCI/CD (Azure DevOps/YAML/Github), IaC (Bicep, Terraform), AKS/Docker orchestration, and scripting (PowerShell, Bash,\nPython); focused on improving reliability, automating deployments and cost optimization while ensuring security, backups\nand operational continuity.\nACCOMPLISHMENTS\nDesigned and implemented Infrastructure-as-Code (Bicep, Terraform) for Azure environments (AKS, storage,\nnetworking), enabling repeatable provisioning and reducing environment setup time from days to minutes.\nBuilt YAML-based Azure DevOps CI/CD pipelines and GitHub workflows to automate build, test and deployment\nprocesses, achieving zero-downtime releases and reducing deployment time by over 70%.\nImplemented Monitoring-as-Code with Datadog and robust alerting/runbooks, cutting mean time to recovery (MTTR)\nby 40% and reducing incident volume through proactive detection.\nLed team with operations, Docker containerization and Helm-based deployments, improving scalability and availability.\nImplemented backup, migration and disaster-recovery strategies to meet RTO/RPO targets and maintain 99.9%+\nservice uptime.\nAutomated operational tasks with PowerShell, Bash and Python scripts, saving an estimated 15+ hours/week of manual\nwork.\nOptimized Azure costs through tagging, rightsizing and reserved instances, reducing monthly cloud spend by\napproximately 20%.\nCompletely Automated Patching process and DR tests which reduces production downtime.\nPROFESSIONAL EXPERIENCE\nSr. Site Reliability Engineer, Thomson Reuters\nMar 2022 to Present\nHyderabad\nMaintaining Azure and its cloud services, including Azure DevOps.\nBash and Powershell scripting\nDocker and Kubernetes\nThe tasks for our Team are Cloud infrastructure code Terraform\nMonitoring as Code\nAzure cost reports and optimization, tagging, and controlling.\nDocument and automate processes (testing, build, deployment, etc.) for CI/CD using\nAzure DevOps pipelines (YAML templates)\nAutomation of processes (dossiers, builds, validations, etc...)\nHandle the data storage, migrations, consolidation, continuity, and backups.\nSecurity compliance management.\nAKS maintenance and management.\nSetup of the environments in Azure-based on Docker and K8s. files.\nData analysis (interactions, errors, queries, etc.)\naishwarya3singh136@gmail.com\n\nAishwarya Singh, Sr. Site Reliability Engineer\nSoftware Engineer, Mindtree LTD\nJun 2018 to Mar 2022\nHyderabad\nService desk, server monitoring, network monitoring, troubleshooting server problems and network problems in\nAzure.\nIncident management and client handling skills.\nKnowledge of application support.\nAbility to understand the problem and act quickly.\nTo assist customers with Azure ARM and Classic Portal related issues\nTroubleshooting Azure Storage and VM performance (CPU, Memory, Network) issues\nHands-on experience on Azure Classic and ARM deployments using Portal, PowerShell\nand Templates.\nAssist customers with Azure and GitHub templates\nAssisting users with Storage spaces configuration at Azure Guest OS level.\nAssisting customers with Data migration Across Storage Accounts and also from on\npremise \u2013 Azure\nEDUCATION\nMalla Reddy college of engineering and technology\nApr 2014 to May 2018\nBachelors of computer science, Hyderabad\nLINKS\nLinkedIn\nAREAS OF EXPERTISE\n\u2022 GitHub\n\u2022 Git\n\u2022 IAC\n\u2022 Python\n\u2022 Alerting & Monitoring\n\u2022 Dockers\n\u2022 PowerShell\n\u2022 CI/CD\n\u2022 Bash\n\u2022 Cloud Cost Optimization\n\u2022 Kubernetes\n\u2022 Microsoft Bicep\n\u2022 Datadog\n\u2022 PowerBI\n\u2022 Azure\n\u2022 Terraform\n\u2022 ServiceNow\n\u2022 PS360 & Qualys\nLANGUAGES\nHindi, English, Telugu\naishwarya3singh136@gmail.com"
+  },
+  {
+    "id": "421bf080",
+    "name": "Aishwarya Singh",
+    "email": "aishwarya3singh136@gmail.com",
+    "phone": "+918019448316",
+    "summary": "Site Reliability Engineer with 7+ years' experience designing, automating and operating cloud infrastructure. Expert in CI/CD, IaC, AKS/Docker orchestration, and scripting, focused on improving reliability and automating deployments.",
+    "skills": [
+      "CI/CD",
+      "Azure DevOps",
+      "YAML",
+      "GitHub",
+      "Infrastructure-as-Code",
+      "Bicep",
+      "Terraform",
+      "AKS",
+      "Docker",
+      "PowerShell",
+      "Bash",
+      "Python",
+      "Monitoring-as-Code",
+      "Datadog",
+      "Cloud cost optimization",
+      "Security compliance management",
+      "Data analysis",
+      "Incident management",
+      "Application support",
+      "ServiceNow",
+      "PS360",
+      "Qualys",
+      "PowerBI"
+    ],
+    "experience": [
+      {
+        "title": "Sr. Site Reliability Engineer",
+        "company": "Thomson Reuters",
+        "duration": "Mar 2022 to Present",
+        "description": "Maintaining Azure and its cloud services, including Azure DevOps. Responsibilities include Bash and PowerShell scripting, Docker and Kubernetes management, cloud infrastructure code with Terraform, monitoring as code, Azure cost optimization, and security compliance management."
+      },
+      {
+        "title": "Software Engineer",
+        "company": "Mindtree LTD",
+        "duration": "Jun 2018 to Mar 2022",
+        "description": "Involved in service desk operations, server and network monitoring, troubleshooting server and network issues in Azure, incident management, and assisting customers with Azure ARM and Classic Portal related issues."
+      }
+    ],
+    "education": [
+      {
+        "degree": "Bachelors of Computer Science",
+        "institution": "Malla Reddy College of Engineering and Technology",
+        "year": "2018"
+      }
+    ],
+    "raw_text": "AISHWARYA SINGH\nSR. SITE RELIABILITY ENGINEER\nHyderabad 500047, India | aishwarya3singh136@gmail.com | +918019448316\nI am always energetic and eager to learn new skills. I have organized the sta functions for the last two years with great\nsuccess. I am always on time for organized events, work-related even though I take my work seriously, I do have a good\nsense of humor.\nPROFILE\nSite Reliability Engineer with 7+ years' experience designing, automating and operating cloud infrastructure. Expert in\nCI/CD (Azure DevOps/YAML/Github), IaC (Bicep, Terraform), AKS/Docker orchestration, and scripting (PowerShell, Bash,\nPython); focused on improving reliability, automating deployments and cost optimization while ensuring security, backups\nand operational continuity.\nACCOMPLISHMENTS\nDesigned and implemented Infrastructure-as-Code (Bicep, Terraform) for Azure environments (AKS, storage,\nnetworking), enabling repeatable provisioning and reducing environment setup time from days to minutes.\nBuilt YAML-based Azure DevOps CI/CD pipelines and GitHub workflows to automate build, test and deployment\nprocesses, achieving zero-downtime releases and reducing deployment time by over 70%.\nImplemented Monitoring-as-Code with Datadog and robust alerting/runbooks, cutting mean time to recovery (MTTR)\nby 40% and reducing incident volume through proactive detection.\nLed team with operations, Docker containerization and Helm-based deployments, improving scalability and availability.\nImplemented backup, migration and disaster-recovery strategies to meet RTO/RPO targets and maintain 99.9%+\nservice uptime.\nAutomated operational tasks with PowerShell, Bash and Python scripts, saving an estimated 15+ hours/week of manual\nwork.\nOptimized Azure costs through tagging, rightsizing and reserved instances, reducing monthly cloud spend by\napproximately 20%.\nCompletely Automated Patching process and DR tests which reduces production downtime.\nPROFESSIONAL EXPERIENCE\nSr. Site Reliability Engineer, Thomson Reuters\nMar 2022 to Present\nHyderabad\nMaintaining Azure and its cloud services, including Azure DevOps.\nBash and Powershell scripting\nDocker and Kubernetes\nThe tasks for our Team are Cloud infrastructure code Terraform\nMonitoring as Code\nAzure cost reports and optimization, tagging, and controlling.\nDocument and automate processes (testing, build, deployment, etc.) for CI/CD using\nAzure DevOps pipelines (YAML templates)\nAutomation of processes (dossiers, builds, validations, etc...)\nHandle the data storage, migrations, consolidation, continuity, and backups.\nSecurity compliance management.\nAKS maintenance and management.\nSetup of the environments in Azure-based on Docker and K8s. files.\nData analysis (interactions, errors, queries, etc.)\naishwarya3singh136@gmail.com\n\nAishwarya Singh, Sr. Site Reliability Engineer\nSoftware Engineer, Mindtree LTD\nJun 2018 to Mar 2022\nHyderabad\nService desk, server monitoring, network monitoring, troubleshooting server problems and network problems in\nAzure.\nIncident management and client handling skills.\nKnowledge of application support.\nAbility to understand the problem and act quickly.\nTo assist customers with Azure ARM and Classic Portal related issues\nTroubleshooting Azure Storage and VM performance (CPU, Memory, Network) issues\nHands-on experience on Azure Classic and ARM deployments using Portal, PowerShell\nand Templates.\nAssist customers with Azure and GitHub templates\nAssisting users with Storage spaces configuration at Azure Guest OS level.\nAssisting customers with Data migration Across Storage Accounts and also from on\npremise \u2013 Azure\nEDUCATION\nMalla Reddy college of engineering and technology\nApr 2014 to May 2018\nBachelors of computer science, Hyderabad\nLINKS\nLinkedIn\nAREAS OF EXPERTISE\n\u2022 GitHub\n\u2022 Git\n\u2022 IAC\n\u2022 Python\n\u2022 Alerting & Monitoring\n\u2022 Dockers\n\u2022 PowerShell\n\u2022 CI/CD\n\u2022 Bash\n\u2022 Cloud Cost Optimization\n\u2022 Kubernetes\n\u2022 Microsoft Bicep\n\u2022 Datadog\n\u2022 PowerBI\n\u2022 Azure\n\u2022 Terraform\n\u2022 ServiceNow\n\u2022 PS360 & Qualys\nLANGUAGES\nHindi, English, Telugu\naishwarya3singh136@gmail.com"
+  },
+  {
+    "id": "6f1ffb5d",
+    "name": "Aishwarya Singh",
+    "email": "aishwarya3singh136@gmail.com",
+    "phone": "+918019448316",
+    "summary": "Site Reliability Engineer with 7+ years' experience designing, automating and operating cloud infrastructure. Expert in CI/CD, IaC, AKS/Docker orchestration, and scripting, focused on improving reliability, automating deployments and cost optimization while ensuring security and operational continuity.",
+    "skills": [
+      "CI/CD",
+      "Azure DevOps",
+      "YAML",
+      "GitHub",
+      "Infrastructure-as-Code",
+      "Bicep",
+      "Terraform",
+      "AKS",
+      "Docker",
+      "PowerShell",
+      "Bash",
+      "Python",
+      "Monitoring-as-Code",
+      "Datadog",
+      "Cloud cost optimization",
+      "Security compliance management",
+      "Data analysis",
+      "Incident management",
+      "Application support",
+      "Service desk",
+      "Server monitoring",
+      "Network monitoring",
+      "Troubleshooting",
+      "Data migration",
+      "Git",
+      "PowerBI",
+      "ServiceNow",
+      "PS360",
+      "Qualys"
+    ],
+    "experience": [
+      {
+        "title": "Sr. Site Reliability Engineer",
+        "company": "Thomson Reuters",
+        "duration": "Mar 2022 to Present",
+        "description": "Maintaining Azure and its cloud services, including Azure DevOps. Responsibilities include Bash and PowerShell scripting, Docker and Kubernetes management, cloud infrastructure code with Terraform, monitoring as code, Azure cost optimization, and security compliance management."
+      },
+      {
+        "title": "Software Engineer",
+        "company": "Mindtree LTD",
+        "duration": "Jun 2018 to Mar 2022",
+        "description": "Handled service desk, server monitoring, and troubleshooting server and network problems in Azure. Managed incident management and client handling, assisted customers with Azure ARM and Classic Portal issues, and performed troubleshooting on Azure Storage and VM performance."
+      }
+    ],
+    "education": [
+      {
+        "degree": "Bachelors of Computer Science",
+        "institution": "Malla Reddy College of Engineering and Technology",
+        "year": "2018"
+      }
+    ],
+    "raw_text": "AISHWARYA SINGH\nSR. SITE RELIABILITY ENGINEER\nHyderabad 500047, India | aishwarya3singh136@gmail.com | +918019448316\nI am always energetic and eager to learn new skills. I have organized the sta functions for the last two years with great\nsuccess. I am always on time for organized events, work-related even though I take my work seriously, I do have a good\nsense of humor.\nPROFILE\nSite Reliability Engineer with 7+ years' experience designing, automating and operating cloud infrastructure. Expert in\nCI/CD (Azure DevOps/YAML/Github), IaC (Bicep, Terraform), AKS/Docker orchestration, and scripting (PowerShell, Bash,\nPython); focused on improving reliability, automating deployments and cost optimization while ensuring security, backups\nand operational continuity.\nACCOMPLISHMENTS\nDesigned and implemented Infrastructure-as-Code (Bicep, Terraform) for Azure environments (AKS, storage,\nnetworking), enabling repeatable provisioning and reducing environment setup time from days to minutes.\nBuilt YAML-based Azure DevOps CI/CD pipelines and GitHub workflows to automate build, test and deployment\nprocesses, achieving zero-downtime releases and reducing deployment time by over 70%.\nImplemented Monitoring-as-Code with Datadog and robust alerting/runbooks, cutting mean time to recovery (MTTR)\nby 40% and reducing incident volume through proactive detection.\nLed team with operations, Docker containerization and Helm-based deployments, improving scalability and availability.\nImplemented backup, migration and disaster-recovery strategies to meet RTO/RPO targets and maintain 99.9%+\nservice uptime.\nAutomated operational tasks with PowerShell, Bash and Python scripts, saving an estimated 15+ hours/week of manual\nwork.\nOptimized Azure costs through tagging, rightsizing and reserved instances, reducing monthly cloud spend by\napproximately 20%.\nCompletely Automated Patching process and DR tests which reduces production downtime.\nPROFESSIONAL EXPERIENCE\nSr. Site Reliability Engineer, Thomson Reuters\nMar 2022 to Present\nHyderabad\nMaintaining Azure and its cloud services, including Azure DevOps.\nBash and Powershell scripting\nDocker and Kubernetes\nThe tasks for our Team are Cloud infrastructure code Terraform\nMonitoring as Code\nAzure cost reports and optimization, tagging, and controlling.\nDocument and automate processes (testing, build, deployment, etc.) for CI/CD using\nAzure DevOps pipelines (YAML templates)\nAutomation of processes (dossiers, builds, validations, etc...)\nHandle the data storage, migrations, consolidation, continuity, and backups.\nSecurity compliance management.\nAKS maintenance and management.\nSetup of the environments in Azure-based on Docker and K8s. files.\nData analysis (interactions, errors, queries, etc.)\naishwarya3singh136@gmail.com\n\nAishwarya Singh, Sr. Site Reliability Engineer\nSoftware Engineer, Mindtree LTD\nJun 2018 to Mar 2022\nHyderabad\nService desk, server monitoring, network monitoring, troubleshooting server problems and network problems in\nAzure.\nIncident management and client handling skills.\nKnowledge of application support.\nAbility to understand the problem and act quickly.\nTo assist customers with Azure ARM and Classic Portal related issues\nTroubleshooting Azure Storage and VM performance (CPU, Memory, Network) issues\nHands-on experience on Azure Classic and ARM deployments using Portal, PowerShell\nand Templates.\nAssist customers with Azure and GitHub templates\nAssisting users with Storage spaces configuration at Azure Guest OS level.\nAssisting customers with Data migration Across Storage Accounts and also from on\npremise \u2013 Azure\nEDUCATION\nMalla Reddy college of engineering and technology\nApr 2014 to May 2018\nBachelors of computer science, Hyderabad\nLINKS\nLinkedIn\nAREAS OF EXPERTISE\n\u2022 GitHub\n\u2022 Git\n\u2022 IAC\n\u2022 Python\n\u2022 Alerting & Monitoring\n\u2022 Dockers\n\u2022 PowerShell\n\u2022 CI/CD\n\u2022 Bash\n\u2022 Cloud Cost Optimization\n\u2022 Kubernetes\n\u2022 Microsoft Bicep\n\u2022 Datadog\n\u2022 PowerBI\n\u2022 Azure\n\u2022 Terraform\n\u2022 ServiceNow\n\u2022 PS360 & Qualys\nLANGUAGES\nHindi, English, Telugu\naishwarya3singh136@gmail.com"
+  }
+]
